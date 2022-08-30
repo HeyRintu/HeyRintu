@@ -1,12 +1,13 @@
 # ***Hi , I'm Rintu*** 👋
 ### I'm Rintu Mondal a Full Stack Web Developer and AI engineer .I Spend most of time coding outstanding projects or listen to music.
+<img align="right" width="300" height="200" src="pic2.svg">
+<br>
 
 - 👨‍💻 All of my projects are available at [https://www.findcoder.io/u/heyrintu](https://www.findcoder.io/u/heyrintu)
 
 - 📝 I regularly write articles on [https://heyrintu.hashnode.dev/](https://heyrintu.hashnode.dev/)
 
 - 📫 How to reach me **rintumondal1998@gmail.com**
-<img align="right" width="300" height="200" src="pic2.svg">
 
 
 ## **Connect with me:**
