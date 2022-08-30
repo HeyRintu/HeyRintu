@@ -26,12 +26,14 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/HeyRintu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="HeyRintu" /></a></p><br><br>
-
 <br>
 
 ![heyrintu](https://github-readme-stats.vercel.app/api/top-langs?username=heyrintu&show_icons=true&theme=synthwave&locale=en&layout=compact)
 <br>
 
 ![heyrintu](https://github-readme-stats.vercel.app/api?username=heyrintu&show_icons=true&theme=synthwave&locale=en)
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/HeyRintu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="HeyRintu" /></a></p><br><br>
+
