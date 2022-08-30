@@ -3,11 +3,11 @@
 
 ### I'm Rintu Mondal a Full Stack Web Developer and AI engineer.  I Spend most of time coding outstanding projects or listen to music.
 
-- 👨‍💻 All of my projects are available at  [heyrintu.me](https://www.findcoder.io/u/heyrintu)
+- 👨‍💻 All of my projects are available at  [***heyrintu.me***](https://www.findcoder.io/u/heyrintu)
 
-- 📝 I regularly write articles on [heyrintu.hashnode](https://heyrintu.hashnode.dev/)
+- 📝 I regularly write articles on [***heyrintu.hashnode***](https://heyrintu.hashnode.dev/)
 
-- 📫 How to reach me **rintumondal1998@gmail.com**
+- 📫 How to reach me ***rintumondal1998@gmail.com***
 
 
 ## **Connect with me:**
