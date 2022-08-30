@@ -6,6 +6,8 @@
 - 📝 I regularly write articles on [https://heyrintu.hashnode.dev/](https://heyrintu.hashnode.dev/)
 
 - 📫 How to reach me **rintumondal1998@gmail.com**
+<img align="right" width="300" height="200" src="pic2.svg">
+
 
 ## **Connect with me:**
 <p align="left">
