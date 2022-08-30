@@ -1,7 +1,7 @@
 # ***Hi , I'm Rintu*** 👋
-<img align="right" width="310" height="220" src="pic2.svg">
+<img align="right" width="330" height="220" src="pic2.svg">
 
-### I'm Rintu Mondal a Full Stack Web Developer and AI engineer .I Spend most of time coding outstanding projects or listen to music.
+### I'm Rintu Mondal a Full Stack Web Developer and AI engineer.  I Spend most of time coding outstanding projects or listen to music.
 
 - 👨‍💻 All of my projects are available at  [heyrintu.me](https://www.findcoder.io/u/heyrintu)
 
