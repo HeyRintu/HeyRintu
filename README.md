@@ -1,5 +1,6 @@
-# ***Hi , I'm Rintu*** 👋
 <img align="right" width="300"  src="pic5.gif">
+
+# ***Hi , I'm Rintu*** 👋
 
 ### I'm Rintu Mondal a Full Stack Web Developer and AI engineer.  I Spend most of time coding outstanding projects or listen to music.
 
