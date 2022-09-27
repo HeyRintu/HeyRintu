@@ -1,4 +1,4 @@
-<img align="right" width="350"  src="pic5.gif">
+<img align="right" width="325"  src="pic5.gif">
 
 # ***Hi , I'm Rintu*** 👋
 
